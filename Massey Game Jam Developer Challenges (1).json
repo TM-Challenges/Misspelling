@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Massey Game Jam Developer Challenges",
+      "webhookUrl": "https://discordapp.com/api/webhooks/745115266266169485/8ucJsDjt3aQ_XiYYwTsARFPBy8_9sfrrZ6xqPbZxAE-N0weRbuJojQalNLAU3AFWVs9M",
+      "message": {
+        "embeds": [
+          {
+            "title": "Mispelling",
+            "description": "Misspelling is an art form that students seem to excel at. Write a program that removes the **nth** character from an input string.\n",
+            "color": 65460,
+            "fields": [
+              {
+                "name": "Input Specifications",
+                "value": "The first line of input contains a single integer N  (1 ≤ N ≤ 1000) which is the number of datasets that follow.\n\nEach dataset consists of a single line of input containing **M**, a space, and a string made up of uppercase letters and spaces only. **M** will be less than or equal to the length of the string. The length of the string is guaranteed to be less than or equal to 80.\n\n"
+              },
+              {
+                "name": "Output Specifications",
+                "value": "For each dataset, you should generate one line of output with the following values: The dataset number as a decimal integer (start counting at one), a space, and the misspelled string. The misspelled string is the input string with the indicated character deleted."
+              },
+              {
+                "name": "Sample Input",
+                "value": "4\n4 MISSPELL\n1 PROGRAMMING\n7 CONTEST\n3 BALLOON",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "1 MISPELL\n2 ROGRAMMING\n3 CONTES\n4 BALOON",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **Mispelling**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\n_This challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/735513163679662100/745115834216612000/avatarfinal.thumb.gif.6f7e3f9ad41759828a04b3eb8bfb589c.gif"
+            },
+            "timestamp": "2020-09-29T00:35:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
